@@ -63,6 +63,5 @@
 | Efficient estimation of word representations in vector space | [PDF]() |
 | Playing Atari with Deep Reinforcement Learning  | [PDF]() |
 | Human Level Control through Deep Reinforcement Learning  | [PDF]() |
-|-|-|
 
 
