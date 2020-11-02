@@ -43,3 +43,37 @@
 | 7 | 11.3 | 宋扬 | Hello World | slides |
 |------|------|------|-------|-----------|
 
+
+# Alternative Reading List
+
+| Paper | Materials |
+| Neural Machine Reading Comprehension: Methods and Trends | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Neural%20Machine%20Reading%20Comprehension%20Methods%20and%20Trends.pdf) |
+|---|---|
+| Neural Reading Comprehension and Beyond |  [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Neural%20Reading%20Comprehension%20and%20Beyond.pdf) |
+|---|---|
+| Attention-over-Attention Neural Networks for Reading Comprehension | [PDF]() |
+|---|---|
+| FANG: Leveraging Social Context for Fake News Detection Using Graph Representation | [PDF]()|
+|---|---|
+| Sequence to Sequence Learning with Neural Networks | [PDF]() |
+| Generative Adversarial Nets | [PDF]() |
+|---|---|
+| Attention is All You Need | [PDF]() |
+|---|---|
+| Language Models are Unsupervised Multitask Learners  | [PDF]() |
+|---|---|
+| A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | [PDF]() |
+|---|---|
+| Pre-training of Deep Bidirectional Transformers for Language Understanding | [PDF]() |
+|---|---|
+| Multi-task Deep Neural Networks for Natural Language Undestandering | [PDF]() |
+|---|---|
+| Distributed Representations of Words and Phrases and Their Compositionality | [PDF]() |
+|---|---|
+| Efficient estimation of word representations in vector space | [PDF]() |
+|---|---|
+| Playing Atari with Deep Reinforcement Learning  | [PDF]() |
+|---|---|
+| Human Level Control through Deep Reinforcement Learning  | [PDF]() |
+|---|---|
+
