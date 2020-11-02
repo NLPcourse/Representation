@@ -49,7 +49,7 @@
 | Paper | Materials |
 |-|-|
 | Neural Machine Reading Comprehension: Methods and Trends | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Neural%20Machine%20Reading%20Comprehension%20Methods%20and%20Trends.pdf) |
-| | |
+
 | Neural Reading Comprehension and Beyond |  [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Neural%20Reading%20Comprehension%20and%20Beyond.pdf) |
 |-|-|
 | Attention-over-Attention Neural Networks for Reading Comprehension | [PDF]() |
