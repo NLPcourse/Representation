@@ -52,18 +52,18 @@ If you have no choice on
 |-|-|
 | Neural Machine Reading Comprehension: Methods and Trends | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Neural%20Machine%20Reading%20Comprehension%20Methods%20and%20Trends.pdf) |
 | Neural Reading Comprehension and Beyond |  [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Neural%20Reading%20Comprehension%20and%20Beyond.pdf) |
-| Attention-over-Attention Neural Networks for Reading Comprehension | [PDF]() |
-| FANG: Leveraging Social Context for Fake News Detection Using Graph Representation | [PDF]()|
-| Sequence to Sequence Learning with Neural Networks | [PDF]() |
-| Generative Adversarial Nets | [PDF]() |
-| Attention is All You Need | [PDF]() |
-| Language Models are Unsupervised Multitask Learners  | [PDF]() |
-| A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | [PDF]() |
-| Pre-training of Deep Bidirectional Transformers for Language Understanding | [PDF]() |
-| Multi-task Deep Neural Networks for Natural Language Undestandering | [PDF]() |
-| Distributed Representations of Words and Phrases and Their Compositionality | [PDF]() |
-| Efficient estimation of word representations in vector space | [PDF]() |
-| Playing Atari with Deep Reinforcement Learning  | [PDF]() |
-| Human Level Control through Deep Reinforcement Learning  | [PDF]() |
+| Attention-over-Attention Neural Networks for Reading Comprehension | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Attention-over-Attention%20Neural%20Networks%20for%20Reading%20Comprehension.pdf) |
+| FANG: Leveraging Social Context for Fake News Detection Using Graph Representation | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Leveraging%20Social%20Context%20for%20Fake%20News%20Detection.pdf)|
+| Sequence to Sequence Learning with Neural Networks | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf) |
+| Generative Adversarial Nets | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Generative%20Adversarial%20Nets.pdf) |
+| Attention is All You Need | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/attention%20is%20all%20you%20need.pdf) |
+| Language Models are Unsupervised Multitask Learners  | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/language%20models%20are%20unsupervised%20multitask%20learners.pdf) |
+| A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/A%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20Models.pdf) |
+| Pre-training of Deep Bidirectional Transformers for Language Understanding | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) |
+| Multi-task Deep Neural Networks for Natural Language Undestandering | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/multi-task%20deep%20neural%20networks%20for%20natural%20language%20undestandering.pdf) |
+| Distributed Representations of Words and Phrases and Their Compositionality | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) |
+| Efficient estimation of word representations in vector space | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Efficient%20estimation%20of%20word%20representations%20in%20vector%20space.pdf) |
+| Playing Atari with Deep Reinforcement Learning  | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf) |
+| Human Level Control through Deep Reinforcement Learning  | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Human%20Level%20Control%20through%20Deep%20Reinforcement%20Learning.pdf) |
 
 
