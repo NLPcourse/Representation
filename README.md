@@ -67,3 +67,10 @@ If you have no choice on
 | Human Level Control through Deep Reinforcement Learning  | [PDF](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Human%20Level%20Control%20through%20Deep%20Reinforcement%20Learning.pdf) |
 
 
+# F.A.Q.
+
+* How to fill the slots and upload your slides?
+   * creating-a-pull-request-from-a-fork/
+   * or you can contact: Longfei Zhang
+* any quesitons, please feel free to contact us.
+
