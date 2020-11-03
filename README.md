@@ -46,7 +46,7 @@
 
 # Alternative Reading List
 
-If you have no choice on 
+If you have no idea on paper selection, you can alternatively choose one form the following list for representation.
 
 | Paper | Materials |
 |-|-|
