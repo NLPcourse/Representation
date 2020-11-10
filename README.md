@@ -1,6 +1,6 @@
 # Representation
 
-  Time: 17:00 pm, Tuesday
+  Time: 19:00 pm, Tuesday
 
   Venue: JS104
 
