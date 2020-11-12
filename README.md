@@ -41,7 +41,7 @@
 | Week | Date | Name | Paper | Materials |
 |------|------|------|-------|-----------|
 |7|2020-11-3|宋扬|[AAAI16]Text Matching as Image Recognition|[slides](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Text%20Matching%20as%20Image%20Recognition.pdf)|
-|11|2020-11-24|王兆杰|[NeurIPS]Generative Adversarial Networks|[slides](https://www.syncw.work/2020/11/12/GAN-%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)|
+|11|2020-11-24|王兆杰 李潇 孙雪晴 王旭 曹宇轩|[NeurIPS]Generative Adversarial Networks|[slides](https://www.syncw.work/2020/11/12/GAN-%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)|
 
 
 
