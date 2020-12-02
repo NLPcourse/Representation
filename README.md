@@ -42,6 +42,7 @@
 |------|------|------|-------|-----------|
 |7|2020-11-3|宋扬|[AAAI16]Text Matching as Image Recognition|[slides](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Text%20Matching%20as%20Image%20Recognition.pdf)|
 |11|2020-11-24|王兆杰 李潇 孙雪晴 王旭 曹宇轩|[NeurIPS]Generative Adversarial Networks|[slides](https://www.syncw.work/2020/11/12/GAN-%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)|
+|11|2020-12-01|张明瑞 杨义 李志远 孙振省 窦术尧|[Systems biology]BNPMDA: Bipartite Network Projection for MiRNA–Disease Association prediction|[slides](https://share.weiyun.com/G7Pv7QwA)|
 |10|2020-11-17|赵一宁 张岱君 李开智 郑善超 才鑫蕊|[NeurIPS]Sequence to Sequence Learning with Neural Networks|[slides]
 
 
